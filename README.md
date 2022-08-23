@@ -1,6 +1,2 @@
 # Data-Fitting
-Fit the random data by Pytorch
-
-**Want to fit the given data?**
-
-**Just RUN the file "fitting.py"!**
+Fit the random given data by Pytorch
